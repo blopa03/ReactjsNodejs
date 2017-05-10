@@ -1,0 +1,143 @@
+    .navbar-color {
+        background-color: #FFE600!important;
+    }
+    
+    body {
+        background-color: #EEEEEE!important;
+    }
+    
+    .btnSearchColor {
+        background-color: #EEEEEE!important;
+        margin-left: -1px;
+    }
+    
+    .logo {
+        margin-right: 0px;
+    }
+
+        
+    .border {
+        border: 0px solid rgba(0, 0, 0, .15)!important;
+    }
+    
+     ::-webkit-input-placeholder {
+        color: #999999!important;
+    }
+    
+    .form-control {
+        color: #333333;
+        font-size: 18px;
+    }
+    
+    .menuDetalle {
+        margin-top: 64px;
+        padding-left: 4px;
+    }
+    
+    .menu-detalle-link {
+        margin-left: -25px;
+    }
+    
+    .nav-menu-detalle {
+        color: #999999!important;
+        font-size: 14px;
+        padding-top: 16px;
+        padding-bottom: 16px;
+    }
+    
+    .jumbotron {
+        background-color: white;
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+    
+    .jumbotronResultados {
+        padding-top: 16px!important;
+        padding-left: 16px!important;
+        padding-bottom: 16px!important;
+    }
+    
+    .btn-primary {
+        background-color: #3483FA;
+        border-color: #3483FA;
+        margin-top: 32px;
+    }
+    
+    .fluid {
+        width: 90%;
+    }
+    
+    .productoCity {
+        font-size: 12px;
+        color: #666666;
+        margin-bottom: 0px;
+        margin-top: 18px!important;
+    }
+    
+    .precioProducto {
+        font-size: 24px;
+        margin-bottom: 32px;
+        color: #333333;
+    }
+    
+    .precioDescricion {
+        font-size: 18px;
+    }
+    
+    .img {
+        border-radius: 4px!important;
+    }
+    
+    .detalleProductoEstado {
+        font-size: 14px;
+        color: #333333;
+        margin-bottom: 0px;
+        font-weight: bold;
+    }
+    
+    .detalleProductoNombre {
+        font-size: 24px;
+        color: #333333;
+        margin-bottom: 0px;
+        margin-top: 16px;
+        font-weight: bold;
+    }
+    
+    .detalleProductoPrecio {
+        font-size: 46px;
+        color: #333333;
+        margin-bottom: 0px;
+        margin-top: 32px;
+    }
+    
+    .detalleProductoDescripcionTitulo {
+        font-size: 28px;
+        color: #333333;
+        margin-bottom: 0px;
+    }
+    
+    .detalleProductoDescripcion {
+        font-size: 16px;
+        color: #999999;
+        margin-bottom: 0px;
+        margin-top: 32px;
+    }
+    
+    .colImagenProducto {
+        height: 180px!important;
+        width: 100%;
+        padding-left: 16px;
+        -webkit-flex: 0 0 0%;
+        padding-right: 0px;
+    }
+    
+    .colDescripcionProducto {
+        padding-left: 16px;
+    }
+    
+    .descripcionResultados {
+        padding-left: 0px;
+        font-size: 18px;
+        margin-bottom: 0px;
+        color: #333333;
+    }

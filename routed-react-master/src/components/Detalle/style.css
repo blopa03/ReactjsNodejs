@@ -1,0 +1,12 @@
+.negrita{
+	font-weight: bold;
+}
+
+.br{
+	word-break: keep-all;
+}
+
+
+.topRow{
+	    margin-top: 100px;
+}
